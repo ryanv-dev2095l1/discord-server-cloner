@@ -13,4 +13,4 @@ pip install -r requirements.txt
 The bot needs 'Manage Server' and 'Administrator' on both ends. Dry-run
 shows what would change without touching anything.
 
-<!-- verified: 2026-10-05 -->
+<!-- verified: 2026-10-06 -->
